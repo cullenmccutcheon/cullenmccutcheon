@@ -3,7 +3,7 @@
 
 
 - I’m currently working on: Furthering my knowledge in Marketing Analytics and implementing them into my portfolio project.
-- I’m currently advancing my skills in: Tablea, SQL, and Excel/Google Sheets.
+- I’m currently advancing my skills in: Tableau, SQL, and Excel/Google Sheets.
 - Ask me about: Why I became a Data Analyst 
 - Phone Number: 603-715-6165
 - Email: mccutcheoncullen@gmail.com
