@@ -53,7 +53,7 @@ Over the years, I’ve come to appreciate that professionalism and communication
 
 ## Personal Note
 
-When I’m not working with data, you’ll find me coaching freestyle skiing—helping athletes define and push their limits, while building the confi confidence 
+When I’m not working with data, you’ll find me coaching freestyle skiing—helping young athletes define and push their limits.
 
 ---
 
