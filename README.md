@@ -9,11 +9,13 @@ Tableau, SQL, Excel/Google Sheets | Turning Data into Actionable Insights
 
 ---
 
-**Email:** mccutcheoncullen@gmail.com  
-**LinkedIn:** [link](https://www.linkedin.com/in/cullen-mccutcheon)  
-**Notion:** [Link](https://www.notion.so/BIA-Cullen-McCutcheon-s-Career-page-1ec3e0a1c7c4808c8523d98ee7b551f0?pvs=4) 
+**Phone:** 603-715-6165
 
-**Phone:** 603-715-6165  
+**Email:** mccutcheoncullen@gmail.com  
+
+**LinkedIn:** [link](https://www.linkedin.com/in/cullen-mccutcheon)  
+
+**Notion:** [Link](https://www.notion.so/BIA-Cullen-McCutcheon-s-Career-page-1ec3e0a1c7c4808c8523d98ee7b551f0?pvs=4)   
 
 ---
 
