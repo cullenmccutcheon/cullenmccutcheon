@@ -35,7 +35,7 @@ Over the years, I’ve come to appreciate that professionalism and communication
 
 ## Projects
 
-- [Portfolio Projects](https://github.com/cullenmccutcheon/Portfolio_Projects)  
+- [Portfolio Projects](https://github.com/cullenmccutcheon/Data-Projects-TripleTen)  
   Explore my portfolio of data projects, where I combine technical expertise with strategic thinking to drive business outcomes.
 
 ---
