@@ -15,7 +15,9 @@ Tableau, SQL, Excel/Google Sheets | Turning Data into Actionable Insights
 
 **LinkedIn:** [Link](https://www.linkedin.com/in/cullen-mccutcheon)  
 
-**Notion:** [Link](https://www.notion.so/BIA-Cullen-McCutcheon-s-Career-page-1ec3e0a1c7c4808c8523d98ee7b551f0?pvs=4)   
+**Notion:** [Link](https://www.notion.so/BIA-Cullen-McCutcheon-s-Career-page-1ec3e0a1c7c4808c8523d98ee7b551f0?pvs=4)
+
+**Portfolio:** [Link](https://www.notion.so/BIA-Cullen-McCutcheon-s-Career-page-1ec3e0a1c7c4808c8523d98ee7b551f0?pvs=4)
 
 ---
 
