@@ -34,12 +34,22 @@ Over the years, I’ve come to appreciate that professionalism and communication
 
 ## Skills
 
-- Data Analysis (SQL, Excel, Google Sheets)
-- Data Visualization (Tableau, Power BI)
-- Marketing Analytics
-- Business Intelligence
-- Communication and Collaboration
-- Professionalism and its broader impact on team and business success
+### Data Analysis & Visualization
+
+*   Data Analysis (SQL, Excel, Google Sheets)
+*   Data Visualization (Tableau, Power BI)
+
+### Marketing Analytics & Business Intelligence
+
+*   Google Analytics 4
+*   Python (Web-Scraping and Sentiment Analysis)
+*   Exponetial Scaling (non-linear forecasting models related to Ad spend)
+*   Statistical Analysis
+*   Customer Segmentation
+*   RFM and Cohort Analysis
+*   Funnel Optimization
+
+
 
 ---
 
