@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-photo.png" alt="Profile Photo" width="200" />
+  <img src="profile-photo.png" alt="Profile Photo" width="160" />
 </p>
 
 # Cullen McCutcheon
