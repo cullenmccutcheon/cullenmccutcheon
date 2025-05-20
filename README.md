@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/your-username/your-repo-name/raw/main/Screenshot%202025-05-20%20at%2011.06.40%20AM.png" alt="New Profile Photo" width="150" height="150" />
+  <img src="profile-photo.png" alt="Profile Photo" width="400" />
 </p>
 
 # Cullen McCutcheon
