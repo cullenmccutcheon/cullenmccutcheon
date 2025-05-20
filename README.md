@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/raw/main/old-photo-filename.jpg" alt="Old Profile Photo" width="150" />
-  <img src="https://github.com/your-username/your-repo-name/raw/main/profile-photo.jpg" alt="New Profile Photo" width="150" />
+  <img src="https://github.com/your-username/your-repo-name/raw/main/profile-photo.png" alt="New Profile Photo" width="150" />
 </p>
 
 # Cullen McCutcheon
