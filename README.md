@@ -23,12 +23,6 @@ Tableau, SQL, Excel/Google Sheets | Turning Data into Actionable Insights
 
 **Portfolio:** [Link](https://github.com/cullenmccutcheon/Data-Projects-TripleTen)
 
----
-
-## About Me
-
-I’m a Business Intelligence & Marketing Analyst who thrives on turning complex data into clear, actionable strategies. My background in analytics is matched by a relentless drive to deliver results.
-Over the years, I’ve come to appreciate that professionalism and communication aren’t just “soft skills”—they’re the foundation of real impact. I’ve always valued empathy, active listening, and collaboration, but I’m now seeing how these qualities, combined with a competitive edge and a will to win, can elevate not just my work, but the entire team’s performance. I believe in doing what it takes to succeed, but never at the expense of integrity or respect for others, if I win, we all do. 
 
 ---
 
@@ -62,18 +56,20 @@ Over the years, I’ve come to appreciate that professionalism and communication
 
 ## Topics I Enjoy Discussing
 
-- The endless oppportunities to learn within the field
-- Building effective and goal oriented dashboards in Tableau
-- My journey from athletics and creativity to data analytics
-- The importants of defining narrative and building context and how AI streamlines the process
-- The power of analytics to reveal otherwise incomprehensible amounts of information
-- Advice from experts within the field on everything listed above
+
+- how AI changed my perspective and my life.
+- The endless oppportunities to learn within the field.
+- How people streamline their process.
+- My journey from athletics and creativity to data analytics.
+- The power of analytics tools to reveal context and narrative from otherwise incomprehensible amounts of information
+- Advice from experts within the field on almost everything listed above.
 
 ---
 
 ## Personal Note
 
-When I’m not working with data, you’ll find me coaching freestyle skiing—helping young athletes define and push their limits.
+I decided to try coaching last year for the first time. It was probably the most rewarding job Ive ever had, not just cause I do it in my free-time, because freestyle skiing was a defining experience and I wanted to pass it on. Triple Ten has been a similar experience. I pondered it for months, wondering whether I could actually learn all of the things I was taught in such a short time.
+Having been away from education for several years, I was surprised to find that I enjoyed it. Because I enjoyed doing it I picked it up quickly. In a way, building narratives from data was a strangely familiar feeling. It's kind of like writing a song, just on a much larger scale.
 
 ---
 
