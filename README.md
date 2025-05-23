@@ -68,7 +68,9 @@ Tableau, SQL, Excel/Google Sheets | Turning Data into Actionable Insights
 
 ## Personal Note
 
-I decided to try coaching last year for the first time. It was probably the most rewarding job Ive ever had, not just cause I do it in my free-time, because freestyle skiing was a defining experience and I wanted to pass it on. Triple Ten has been a similar experience. I pondered it for months, wondering whether I could actually learn all of the things I was taught in such a short time.
+I decided to try coaching last year for the first time. It was probably the most rewarding job Ive ever had, not just cause I do it in my free-time, because freestyle skiing was a defining experience and I wanted to pass it on. 
+
+Triple Ten has been a similar experience. I pondered it for months, wondering whether I could actually learn all of the things I was taught in such a short time.
 Having been away from education for several years, I was surprised to find that I enjoyed it. Because I enjoyed doing it I picked it up quickly. In a way, building narratives from data was a strangely familiar feeling. It's kind of like writing a song, just on a much larger scale.
 
 ---
