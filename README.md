@@ -42,15 +42,7 @@ Tableau, SQL, Excel/Google Sheets | Turning Data into Actionable Insights
 *   Customer Segmentation
 *   RFM and Cohort Analysis
 *   Funnel Optimization
-
-
-
----
-
-## Projects
-
-- [Portfolio Projects](https://github.com/cullenmccutcheon/Data-Projects-TripleTen)  
-  Explore my portfolio of data projects, where I combine technical expertise with strategic thinking to drive business outcomes.
+*   
 
 ---
 
