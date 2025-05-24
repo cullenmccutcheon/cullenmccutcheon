@@ -42,7 +42,7 @@ Tableau, SQL, Excel/Google Sheets | Turning Data into Actionable Insights
 *   Customer Segmentation
 *   RFM and Cohort Analysis
 *   Funnel Optimization
-*   
+*   Conversion Tracking
 
 ---
 
